@@ -30,4 +30,4 @@ ser salva em um banco de dados local.
 
 ## License
 
-Este projeto tem a licença [MIT](./LICENSE).
+Este projeto tem a licença [MIT](./License).
