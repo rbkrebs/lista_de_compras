@@ -27,3 +27,7 @@ ao aplicativo de tempos em tempos.
 - `SQFLite ou BD SQL similar`: todas as informações referentes a lista de compras deve
 ser salva em um banco de dados local.
 - `Flutter Icons`: utilize para definir o ícone da aplicação.
+
+## License
+
+Este projeto tem a licença [MIT](./LICENSE).
